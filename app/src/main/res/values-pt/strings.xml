@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bs">" - Atualmente a "</string>
+    <string name="button_register"><u>Registar agora</u></string>
+    <string name="button_save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="donations">Doações</string>
+    <string name="current">Página atual</string>
+
+    <string name="donation_2">Doação Terramoto</string>
+    <string name="hint_contact">O seu email</string>
+    <string name="hint_name">Nome completo</string>
+    <string name="hint_password">Palavra-passe</string>
+    <string name="history">Notícias</string>
+    <string name="news_title_1">Incêndio em Sesimbra</string>
+    <string name="news_body_1">Um incêndio que deflagrou cerca das 14.30 horas desta sexta-feira, num apartamento em Santo Tirso, levou dois menores ao hospital, por inalação de fumo.
+
+Considerados feridos leves, os menores foram transportados para o Hospital de Santo Tirso.
+
+Ao que o JN apurou, o incêndio, que deflagrou no sétimo e último andar de um prédio na Rua Luís de Camões, no centro da cidade, terá tido origem numa frigideira que estaria ao lume. O edifício foi evacuado por precaução.
+
+Para o local foram mobilizados os bombeiros de Santo Tirso, Tirsenses e PSP.</string>
+    <string name="news_title_2">Inundação em portimão</string>
+    <string name="news_body_2">Pelo menos oito pessoas morreram na sequência de inundações registadas no leste da Austrália, segundo um novo balanço divulgado hoje pelas autoridades locais.
+
+O anterior balanço apontava para quatro mortos.
+
+O leste da Austrália tem sido alvo de fortes chuvas há quase uma semana, que inundaram edifícios inteiros e estradas, arrastando viaturas.
+
+As autoridades do estado de Queensland aconselharam os residentes da capital, Brisbane, a permanecerem em casa, no momento em que a tempestade se desloca hoje para sul, onde muitas áreas residenciais estão localizadas.
+
+Mais de 1.400 casas em Brisbane estão em risco de inundação.
+
+A polícia continua à procura de um homem de 70 anos, que caiu ao rio Brisbane na sexta-feira.
+        Após vários anos de seca e incêndios florestais potenciados pelas alterações climáticas, o leste da Austrália está a viver um verão extraordinariamente húmido devido a um fenómeno causado por uma anomalia térmica nas águas superficiais equatoriais do Oceano Pacífico.</string>
+    <string name="news_title_3">Terremoto em Bragança</string>
+    <string name="news_body_3">O Japão foi atingido esta quarta-feira por um terramoto de 7,3 na escala de Richter, minutos após um primeiro abalo, de menor intensidade. Não há, para já, notícia de vítimas
+Um abalo de 7,3 atingiu esta quarta-feira o nordeste do Japão, mais concretamente as costas de Fukushima e Miyagi, tendo sido de imediato acionado um alerta de tsunami. As ondas geradas pelo abalo podem chegar a um metro de altura, escreve o jornal "The Japan Times".</string>
+
+    <string name="location_permission_denied">Por favor tente outra vez e permita as permissões necessárias!</string>
+    <string name="login_ok">Login com sucesso! Bem-vindo!</string>
+    <string name="logout">Sair</string>
+    <string name="testing">testing</string>
+    <string name="missing_contact">Contacto em falta</string>
+    <string name="missing_name">Nome em falta</string>
+    <string name="missing_password">Palavra-passe em falta</string>
+    <string name="donation_1">Doação Incendio</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="option_register">Ainda não tem conta?</string>
+    <string name="permission_rationale_location">Estas permissões são necessárias para que a aplicação funcione corretamente.</string>
+    <string name="permission_required_toast">Permissão de localização é necessária para esta demo.</string>
+    <string name="profile">Perfil</string>
+    <string name="register">Registo</string>
+    <string name="btnhelp">Ajudar</string>
+    <string name="info_1_map">Empresa:Unicef \nLocalidade: Bragança \n\nColectado até ao momento:</string>
+    <string name="info_2_map">Empresa:Unicef \nLocalidade: Porto \n\nColectado até ao momento:</string>
+    <string name="settings">Definições</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_bs">Informação adicional</string>
+    <string name="about">Ajudar</string>
+    <string name="change_app_language">Mudar linguagem da aplicação</string>
+    <string name="change_to_dark_mode">Mudar para modo noturno</string>
+    <string name="delete_account">Apagar conta</string>
+    <string name="change">A mudar para Inglês</string>
+    <string name="info">Esta aplicação foi desenvolvida por estudantes de cm.</string>
+    <string name="login_not">Verifique valores introduzidos!</string>
+    <string name="help">Click nos icons para obter mais informação sobre acontecimentos.</string>
+    <string name="delete">A sua conta foi removida!</string>
+</resources>

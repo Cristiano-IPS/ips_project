@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_item_one"
+            android:icon="@drawable/user"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_item_two"
+            android:icon="@drawable/map"
+            android:title="@string/title_activity_maps" />
+        <item
+            android:id="@+id/nav_item_three"
+            android:icon="@drawable/history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_item_four"
+            android:icon="@drawable/comment"
+            android:title="@string/donations" />
+        <item
+            android:id="@+id/nav_item_five"
+            android:icon="@drawable/settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_item_six"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>
